@@ -1,9 +1,9 @@
 # rfm69-python
 
-# Ported to Micropython by Arko at EMFCAMP 2016 - Habville
+Ported to Micropython by Arko at EMFCAMP 2016 - Habville
 
 A library to control HopeRF RFM69-series radio modules through SPI and
-GPIO. This is designed for use on a pyboard.
+GPIO. This is designed for use on the Micro Python Pyboard.
 
 Written for use with the [ukhas.net](http://ukhas.net) project.
 
